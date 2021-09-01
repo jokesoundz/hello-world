@@ -2,7 +2,7 @@ HTML,BODY {
 cursor: url("tools/rat.gif"), url("tools/rat.ani"), auto;
 }
 A:hover {
-cursor: url("tools/hand.gif"), auto;
+cursor: url("tools/hand.cur"), url("tools/hand.gif"), auto;
 }
 * {
   box-sizing: border-box;
