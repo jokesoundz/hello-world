@@ -1,5 +1,5 @@
 HTML,BODY {
-cursor: url("/tools/rat.ani"), url("/tools/rat.gif"), auto;
+cursor: url("tools/rat.gif"), url("tools/rat.ani"), auto;
 }
 A:hover {
 cursor: url("/tools/hand.ani"), url("/tools/hand.gif"), auto;
