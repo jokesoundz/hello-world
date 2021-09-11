@@ -89,7 +89,7 @@ height: auto;
 }
 
 
-img:hover {
+img.move:hover {
   animation: shake 1s;
   animation-iteration-count: infinite;
 }
